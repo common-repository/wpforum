@@ -1,0 +1,86 @@
+/*
+	Skin name: Empty template
+	Description: Template for making skin, only images and icons.
+	Author: Fredrik Fahlstad
+	Author url: http://www.fahlstad.se
+	WP-Forum url: http://www.fahlstad.se/wp-plugins/wp-forum
+	Version: 1.0
+*/
+
+
+#wp-forum table{
+	border-collapse:collapse;
+	width:100%;
+}
+#wp-forum table td{
+	border:1px #aaa solid;
+	padding:2px;
+}
+#wp-forum table.main_table{
+}
+#wp-forum table.main_table td{
+}
+#wp-forum table th{
+}
+#wp-forum a, #wp-forum a:visited{
+}
+#wp-forum a.forum_link{
+}
+#wp-forum span{
+}
+#wp-forum table.group_table{
+}
+#wp-forum table.group_table td{
+}
+#wp-forum table.forum_table{
+}
+#wp-forum table.forum_table td{
+}
+#wp-forum table.posts_table{
+}
+#wp-forum table.posts_table td{
+}
+#wp-forum table.posts_table td.divider{
+}
+#wp-forum table.posts_table td.o{
+}
+#wp-forum table.posts_table td.e{
+}
+#wp-forum table.reply_table td{
+}
+#wp-forum table.user_table{
+}
+#wp-forum table.user_table td{
+}
+#wp-forum table td.group_header{
+}
+#wp-forum table td.table_header{
+}
+#wp-forum table td.table_meta{
+}
+#wp-forum table.forum-meta{
+}
+#wp-forum table.forum-meta td{
+}
+#wp-forum .quote{
+}
+#wp-forum table.posts_table td.post-text{
+}
+#wp-forum span.post_meta{
+}
+#wp-forum table.reply_table{
+}
+#wp-forum #forumtext{
+}
+#wp-forum blockquote{
+}
+#wp-forum table.recent_table td{
+}
+#wp-forum table.user_table td.table_meta{
+}
+#subscript{
+}
+tr.o{
+}
+tr.e{	
+}
